@@ -1,0 +1,4 @@
+--fpu-accurate-addsub-range=0x22F2B0,0x22F468
+
+
+Complite FiX bug, when Jackie falling through the floor in the temple!
