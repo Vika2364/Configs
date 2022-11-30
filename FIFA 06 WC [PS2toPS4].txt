@@ -1,0 +1,7 @@
+--gs-adaptive-frameskip=1
+--ee-cycle-scalar=3.0     
+--host-display-mode=16:9
+--host-vsync=1
+
+--mtap1=always
+
