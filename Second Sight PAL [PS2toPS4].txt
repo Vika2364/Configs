@@ -1,0 +1,8 @@
+--gs-adaptive-frameskip=1
+--gs-progressive=1
+--ee-cycle-scalar=3.0    
+--host-display-mode=16:9
+--gs-optimize-30fps=1
+
+--vu1=jit-sync
+--vif1-instant-xfer=0
