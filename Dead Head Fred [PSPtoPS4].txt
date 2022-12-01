@@ -1,0 +1,11 @@
+--ps4-trophies=0
+--ps5-uds=0
+--trophies=0
+--image="data/USER_L0.IMG"
+--antialias=SSAA4x
+--multisaves=true
+--notrophies=true
+
+--antialias=off
+--texclutmode=full
+
