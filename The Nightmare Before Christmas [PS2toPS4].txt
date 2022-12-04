@@ -3,5 +3,6 @@
 --host-display-mode=16:9
 
 --cdvd-sector-read-cycles=8000
+--ps2-lang=system
 
 #emu used=psychonauts v2
