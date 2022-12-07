@@ -1,0 +1,7 @@
+--image="data/Sled.BIN"
+
+--sim-analog-pad=0x2020
+
+--gpu-scanout-fps-override=ntsc
+--scale=6
+--multitap=on
