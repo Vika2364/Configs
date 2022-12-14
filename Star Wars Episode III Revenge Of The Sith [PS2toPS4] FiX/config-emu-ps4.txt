@@ -1,0 +1,8 @@
+--ee-cycle-scalar=1.75
+--iop-cycle-scalar=1.75
+--vu1-mpg-cycles=1480
+--vu0-mpg-cycles=1480
+--vu0-di-bits=0
+--vu1-di-bits=0
+
+--ps2-lang=system
