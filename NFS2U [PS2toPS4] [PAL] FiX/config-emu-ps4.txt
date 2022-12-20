@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--framelimiter=1
+--framelimit-fps=60.0
+--framelimit-scalar=1.1
+--cdvd-sector-read-cycles=2000
+--mtap1=always
+
