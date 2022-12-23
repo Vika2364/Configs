@@ -1,0 +1,3 @@
+--gs-uprender=2x2
+--gs-upscale=point
+--ps2-lang=system
