@@ -1,0 +1,3 @@
+--framelimit-mode=normal
+--ee-cycle-scalar=2.1
+--vif1-instant-xfer=0
