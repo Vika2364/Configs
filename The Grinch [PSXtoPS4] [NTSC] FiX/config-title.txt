@@ -1,0 +1,3 @@
+--image0="data/Grinch.bin"
+--gpu-scanout-fps-override=ntsc
+--scale=6
