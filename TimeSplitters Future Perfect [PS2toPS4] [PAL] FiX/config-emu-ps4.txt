@@ -1,0 +1,8 @@
+--gs-progressive=1
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--vu1-mpg-cycles=3000    
+--vu1=jit-sync           
+--vif1-instant-xfer=0    
+--mtap1=always
+--ps2-lang=system
