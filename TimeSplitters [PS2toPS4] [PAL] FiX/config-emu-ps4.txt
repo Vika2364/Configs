@@ -1,0 +1,3 @@
+--vu1=jit-sync
+--mtap1=always
+--ps2-lang=system
