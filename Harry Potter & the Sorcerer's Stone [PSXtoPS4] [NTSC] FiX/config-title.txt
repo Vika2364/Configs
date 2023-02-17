@@ -1,0 +1,6 @@
+#User imported config
+--ctlanalog=on
+--gpu-scanout-fps-override=ntsc
+--scale=6
+--cdrom-cmd-time=100
+--cdrom-max-seek=true
