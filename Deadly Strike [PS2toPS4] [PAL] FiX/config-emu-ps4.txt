@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--gs-kernel-cl-up="up2x2simple"
+--gs-force-bilinear=1
+--force-frame-blend=1
+--gs-frontend-opt-mode=2
+--vu1-mpg-cycles=1000
+--mtap1=always
