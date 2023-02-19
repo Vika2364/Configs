@@ -1,0 +1,2 @@
+--host-display-mode=16:9
+--host-audio-latency=3.019
