@@ -1,0 +1,1 @@
+--switch-disc-reset=1
