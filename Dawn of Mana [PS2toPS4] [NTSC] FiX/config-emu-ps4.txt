@@ -1,0 +1,11 @@
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+
+--vu0-no-clamping=1
+--vu0-clamp-results=1
+--vu1-no-clamping=0
+--vu1-clamp-results=1
+
+--cop2=trans
+
+--cdvd-sector-read-cycles=4000
