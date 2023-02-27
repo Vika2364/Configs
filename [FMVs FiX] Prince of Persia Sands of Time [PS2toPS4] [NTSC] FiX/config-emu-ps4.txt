@@ -1,0 +1,14 @@
+--gs-scanout-offsetx=500
+--gs-scanout-offsety=500
+--host-display-mode=16:9
+--vif1-instant-xfer=0
+--vu0-no-clamping=0
+--vu0-clamp-operands=1
+--vu0-clamp-results=1
+--vu1-no-clamping=0
+--vu1-clamp-operands=1
+--vu1-clamp-results=1
+--cop2-no-clamping=0
+--cop2-clamp-operands=1
+--cop2-clamp-results=1
+
