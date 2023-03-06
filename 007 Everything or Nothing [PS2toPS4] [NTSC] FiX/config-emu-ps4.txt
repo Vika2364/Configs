@@ -1,0 +1,10 @@
+--gs-flush-ad-xyz=safe
+
+--ee-cycle-scalar=2.2
+
+# mission 4 stutter fix
+--ee-hook=0x003b4430,AdvanceClock,0x10000004,18000
+
+
+--vu1-di-bits=0
+--vu1-jr-cache-policy=newprog
