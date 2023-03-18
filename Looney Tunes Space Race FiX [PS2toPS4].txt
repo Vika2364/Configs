@@ -1,5 +1,0 @@
-Experimental convert for PS4. Package build with new emu! Works fine!
-
-Widescreen patch - added! (Just know that You can't aim and shoot beyond the 4:3 mark).
-
-Language: English
