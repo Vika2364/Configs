@@ -1,0 +1,113 @@
+-- Tom Clancy's Splinter Cell
+-- Widescreen hack by nemesis2000
+-- Stutter fix by Stayhye
+-- ported to PS4 lua
+-- emu used=kof98um
+
+apiRequest(0.1)
+
+local emuObj      = getEmuObject()
+local eeObj       = getEEObject()
+
+emuObj.PadSetLightBar(0, 0, 255, 0)
+emuObj.SetDisplayAspectWide()
+emuObj.SetDeinterlace(true)
+
+
+--in-game stutter fix A
+eeObj.AddHook(0x002cc350, 0x78a30000, function() -- lq v1, $0000(a1)
+          eeObj.AdvanceClock(21000)
+          eeObj.Vu1MpgCycles(2000)
+end)
+
+--in-game stutter fix B
+eeObj.AddHook(0x002cc354, 0x27bdffd0, function() -- addiu sp, sp, $ffd0
+          eeObj.FastForwardClock(8000)
+end)
+
+local WS = function()
+--16:9
+eeObj.WriteMem32(0x001cf514,0x8f828ff8)
+eeObj.WriteMem32(0x001cf518,0x14400005)
+eeObj.WriteMem32(0x001cf51c,0x3c040045)
+eeObj.WriteMem32(0x001cf520,0x0c0776c8)
+eeObj.WriteMem32(0x001cf524,0x24842c32)
+eeObj.WriteMem32(0x001cf528,0x0c077680)
+eeObj.WriteMem32(0x001cf52c,0xaf828ff8)
+eeObj.WriteMem32(0x001cf530,0x8f848ff8)
+eeObj.WriteMem32(0x001cf534,0x3c060045)
+eeObj.WriteMem32(0x001cf538,0x0000282d)
+eeObj.WriteMem32(0x001cf53c,0x24c62c52)
+eeObj.WriteMem32(0x001cf540,0x0000382d)
+eeObj.WriteMem32(0x001cf544,0x24080001)
+eeObj.WriteMem32(0x001cf548,0x0c05a194)
+eeObj.WriteMem32(0x001cf54c,0x0000482d)
+eeObj.WriteMem32(0x001cf550,0x0040802d)
+eeObj.WriteMem32(0x001cf554,0x0c0592ac)
+eeObj.WriteMem32(0x001cf558,0xafa00088)
+eeObj.WriteMem32(0x001cf55c,0x8fa60088)
+eeObj.WriteMem32(0x001cf560,0x0200202d)
+eeObj.WriteMem32(0x001cf564,0x8f89801c)
+eeObj.WriteMem32(0x001cf568,0x0040282d)
+eeObj.WriteMem32(0x001cf56c,0x0000382d)
+eeObj.WriteMem32(0x001cf570,0x0000402d)
+eeObj.WriteMem32(0x001cf574,0x0c058fdc)
+eeObj.WriteMem32(0x001cf578,0x0000502d)
+eeObj.WriteMem32(0x001cf57c,0x8fa3005c)
+eeObj.WriteMem32(0x001cf580,0x0c05e844)
+eeObj.WriteMem32(0x001cf584,0xac620060)
+eeObj.WriteMem32(0x001cf588,0x8fa6005c)
+eeObj.WriteMem32(0x001cf58c,0x3c023fd4)
+eeObj.WriteMem32(0x001cf590,0x34437ae1)
+eeObj.WriteMem32(0x001cf594,0x24050004)
+eeObj.WriteMem32(0x001cf598,0x3c043f40) --hor val
+eeObj.WriteMem32(0x001cf59c,0xe4c00070)
+eeObj.WriteMem32(0x001cf5a0,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5a4,0xac4000c0)
+eeObj.WriteMem32(0x001cf5a8,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5ac,0xac4000c4)
+eeObj.WriteMem32(0x001cf5b0,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5b4,0xac4000c8)
+eeObj.WriteMem32(0x001cf5b8,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5bc,0xe45400cc)
+eeObj.WriteMem32(0x001cf5c0,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5c4,0xac4000e0)
+eeObj.WriteMem32(0x001cf5c8,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5cc,0xac4000e4)
+eeObj.WriteMem32(0x001cf5d0,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5d4,0xac4000e8)
+eeObj.WriteMem32(0x001cf5d8,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5dc,0xe45400ec)
+eeObj.WriteMem32(0x001cf5e0,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5e4,0xac4000f0)
+eeObj.WriteMem32(0x001cf5e8,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5ec,0xac4000f4)
+eeObj.WriteMem32(0x001cf5f0,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5f4,0xac4000f8)
+eeObj.WriteMem32(0x001cf5f8,0x8fa2005c)
+eeObj.WriteMem32(0x001cf5fc,0xe45400fc)
+eeObj.WriteMem32(0x001cf600,0x8fa2005c)
+eeObj.WriteMem32(0x001cf604,0xac400100)
+eeObj.WriteMem32(0x001cf608,0x8fa2005c)
+eeObj.WriteMem32(0x001cf60c,0xac400108)
+eeObj.WriteMem32(0x001cf610,0x8fa2005c)
+eeObj.WriteMem32(0x001cf614,0xac400104)
+eeObj.WriteMem32(0x001cf618,0x8fa2005c)
+eeObj.WriteMem32(0x001cf61c,0xac450090)
+eeObj.WriteMem32(0x001cf620,0x8fa2005c)
+eeObj.WriteMem32(0x001cf624,0xac400084)
+eeObj.WriteMem32(0x001cf628,0x8fa2005c)
+eeObj.WriteMem32(0x001cf62c,0xac400080)
+eeObj.WriteMem32(0x001cf630,0x8fa2005c)
+eeObj.WriteMem32(0x001cf634,0xac440088)
+eeObj.WriteMem32(0x001cf638,0x8fa2005c)
+eeObj.WriteMem32(0x001cf63c,0x3c043f80)
+eeObj.WriteMem32(0x001cf640,0xac44008c)
+
+emuObj.ThrottleMax()
+end
+
+emuObj.AddVsyncHook(WS)
+
+emuObj.SetGsTitleFix( "globalSet",  "reserved", { waveThreshold = 90000} )
+emuObj.SetGsTitleFix( "ignoreAreaUpdate", 0, { } )
