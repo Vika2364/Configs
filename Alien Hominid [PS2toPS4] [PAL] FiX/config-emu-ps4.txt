@@ -1,0 +1,8 @@
+--gs-progressive=1
+--cdvd-sector-read-cycles=2000
+
+--host-audio-latency=0.30
+--ee-hook=0x00177c90,AdvanceClock,,3300
+--ee-hook=0x00137014,AdvanceClock,,3100
+--ee-cycle-scalar=1.3
+--mtap1=always
