@@ -1,0 +1,8 @@
+--cdvd-sector-read-cycles=1000
+
+--fpu-rsqrt-fast-estimate=1
+
+--host-audio-latency=1.40
+
+--ee-cycle-scalar=4.95
+--mtap1=always
