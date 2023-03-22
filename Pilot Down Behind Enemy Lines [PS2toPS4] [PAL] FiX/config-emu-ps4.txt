@@ -1,0 +1,2 @@
+--ee-hook=0x004489fc,AdvanceClock,,5000
+--ps2-lang=system
