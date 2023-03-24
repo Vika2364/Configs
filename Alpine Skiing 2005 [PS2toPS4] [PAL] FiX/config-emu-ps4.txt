@@ -1,0 +1,5 @@
+--gs-kernel-cl-up="up2x2simple"
+--vu0-no-clamping=0 
+--vu1-no-clamping=0
+
+Default PS2 Emu used! 
