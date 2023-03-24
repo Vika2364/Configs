@@ -1,0 +1,9 @@
+--gs-kernel-cl-up="up2x2tc"
+--gs-ignore-dirty-page-border=1
+
+--force-frame-blend=1
+
+--gs-progressive=1
+
+--cdvd-sector-read-cycles=5000
+--vu1-jr-cache-policy=newprog
