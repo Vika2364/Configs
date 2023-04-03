@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+
+--vu1-di-bits=0
+
+--gs-progressive=1
+--cdvd-sector-read-cycles=4000
