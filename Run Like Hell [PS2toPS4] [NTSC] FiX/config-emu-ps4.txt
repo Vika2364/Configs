@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--vu1-no-clamping=0
+--cop2-no-clamping=1
+--vu0-no-clamping=1
+--vif1-instant-xfer=0
+
+--ee-hook=0x0027d900,AdvanceClock,,2000 #FMV fix
