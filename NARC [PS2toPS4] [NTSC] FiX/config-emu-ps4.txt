@@ -1,0 +1,6 @@
+--host-display-mode=16:9
+--gs-adaptive-frameskip=1
+--mtap1=always
+
+--gs-progressive=1
+--gs-motion-factor=50
