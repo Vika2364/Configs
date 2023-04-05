@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--gs-adaptive-frameskip=1
+--vu1-no-clamping=0
+--vu1-clamp-operands=1
+--vu1-clamp-results=1
+
+--mtap1=always
