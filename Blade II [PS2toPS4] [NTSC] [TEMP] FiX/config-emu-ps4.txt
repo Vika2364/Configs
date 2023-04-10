@@ -1,0 +1,5 @@
+--cdvd-sector-read-cycles=200
+--host-display-mode=16:9
+--vu0-di-bits=0
+--vu1-di-bits=0
+
