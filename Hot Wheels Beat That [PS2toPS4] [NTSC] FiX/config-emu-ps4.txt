@@ -1,0 +1,7 @@
+#SLUS_216.28
+--gs-uprender=2x2
+--gs-upscale=EdgeSmooth
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--vu1-mpg-cycles=1025   
+--vu1-di-bits=0
