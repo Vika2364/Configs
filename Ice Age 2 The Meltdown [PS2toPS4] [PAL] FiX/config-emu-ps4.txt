@@ -1,0 +1,3 @@
+--gs-progressive=1
+--cdvd-sector-read-cycles=2000
+--ps2-lang=system
