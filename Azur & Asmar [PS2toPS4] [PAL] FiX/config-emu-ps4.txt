@@ -1,3 +1,4 @@
 --vu1=jit-sync
 --vif1-instant-xfer=0
 
+War of the monsters v1 emu
