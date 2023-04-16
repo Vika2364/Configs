@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=8000
+
+--ee-cycle-scalar=1.35
+
+--vu0-no-clamping=0 
+--vu1-no-clamping=0 
