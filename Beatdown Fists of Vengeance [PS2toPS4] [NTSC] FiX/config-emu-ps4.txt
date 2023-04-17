@@ -1,0 +1,10 @@
+--host-display-mode=16:9
+--gs-progressive=1
+--gs-force-bilinear=1
+
+--host-vsync=1
+
+--cdvd-sector-read-cycles=4000
+--vu1-no-clamping=0 
+
+--mtap1=always
