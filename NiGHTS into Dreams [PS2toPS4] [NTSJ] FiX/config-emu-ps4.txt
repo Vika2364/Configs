@@ -1,0 +1,2 @@
+--gs-progressive=1
+--cdvd-sector-read-cycles=2000
