@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--vu1-di-bits=0
+--vu1-mpg-cycles=250
+--ee-cycle-scalar=1.2
+--ee-hook=0x003547C8,AdvanceClock,,9000
+--ee-hook=0x0034C098,AdvanceClock,,500
+--mtap1=always
