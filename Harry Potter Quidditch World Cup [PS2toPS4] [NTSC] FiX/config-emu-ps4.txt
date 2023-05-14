@@ -1,0 +1,11 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=6000
+
+--framelimiter=1
+--framelimit-fps=59.9
+--framelimit-scalar=1.1
+
+--ee-cycle-scalar=1.7
+--vu1-mpg-cycles=800
+
+--mtap1=always
