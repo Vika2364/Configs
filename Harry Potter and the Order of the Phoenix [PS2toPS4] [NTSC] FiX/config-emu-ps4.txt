@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--gs-kernel-cl="mipmap"
+--gs-kernel-cl-up="mipmap2x2"
+--gs-use-mipmap=1
+
+--cdvd-sector-read-cycles=5000
+
+--ee-cycle-scalar=1.2
+--iop-cycle-scalar=0.8
