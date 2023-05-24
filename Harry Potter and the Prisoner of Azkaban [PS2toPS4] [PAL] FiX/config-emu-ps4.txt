@@ -1,0 +1,6 @@
+--gs-use-mipmap=1
+--gs-kernel-cl="mipmap"
+--gs-kernel-cl-up="mipmap2x2"
+--vif1-instant-xfer=0
+
+
