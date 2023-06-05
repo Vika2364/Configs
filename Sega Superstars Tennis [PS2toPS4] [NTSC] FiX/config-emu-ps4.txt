@@ -1,0 +1,9 @@
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--cdvd-sector-read-cycles=2000
+--vu0-di-bits=0
+--vif1-instant-xfer=0
+
+--ee-hook=0x0010bb0c,AdvanceClock,,6000
+--ps2-lang=system
+--mtap1=always
