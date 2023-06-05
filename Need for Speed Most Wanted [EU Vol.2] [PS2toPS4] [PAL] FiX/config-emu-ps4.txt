@@ -1,0 +1,12 @@
+--gs-optimize=60fps
+--iop-cycle-scalar=2.3
+--vu1-mpg-cycles=241
+--vu0-di-bits=0
+--vu1-di-bits=0
+--vu0-jr-cache-policy=auto
+--vu0-jalr-cache-policy=auto
+--cdvd-sector-read-cycles=250
+--vu-branch-hazard=0
+--vu-evil-branches=0
+--ps2-lang=system
+--mtap1=always
