@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--vu0-const-prop=0 
+--vu1-const-prop=0
