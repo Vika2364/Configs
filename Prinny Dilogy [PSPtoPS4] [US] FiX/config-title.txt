@@ -1,0 +1,16 @@
+--antialias="MSAA4x" #ssaa4x off msaa4x
+--texloadcores=5
+--present=vblankstart
+--texrecent=true
+--texclutmode=full
+--spu2Trace=true
+--spu2-c1-memin-to-bgm=true
+
+
+
+
+
+
+
+
+
