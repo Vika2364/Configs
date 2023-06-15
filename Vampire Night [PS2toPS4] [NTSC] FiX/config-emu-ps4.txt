@@ -1,3 +1,0 @@
---host-display-mode=16:9
---gs-progressive=1
---host-vsync=1
