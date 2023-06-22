@@ -1,0 +1,3 @@
+--antialias=off
+--texclutmode=full
+--smoothlevel=0
