@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=8000
+
+--force-frame-blend=1
+--vu1-no-clamping=0
+
+
