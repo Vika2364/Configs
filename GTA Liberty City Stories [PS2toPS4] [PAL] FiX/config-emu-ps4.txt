@@ -1,0 +1,16 @@
+--host-display-mode=16:9
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--gs-h2l-list-opt=1
+--gs-h2l-accurate-hash=1
+--gs-adaptive-frameskip=1
+
+--vu0-mpg-cycles=200
+--vu1-mpg-cycles=200
+
+--ee-cycle-scalar=0.8
+
+--force-frame-blend=1
+
+
+
