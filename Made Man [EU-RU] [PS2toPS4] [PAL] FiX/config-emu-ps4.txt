@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+--host-vsync=1
+--host-audio-latency=0.045
+--ee-hook=0x00232D34,AdvanceClock,,9000
+--ee-evt-check-full=1
+
+
+--cdvd-sector-read-cycles=3000
