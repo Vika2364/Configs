@@ -1,0 +1,5 @@
+--gs-adaptive-frameskip=1
+
+--force-frame-blend=1
+
+--cdvd-sector-read-cycles=5000
