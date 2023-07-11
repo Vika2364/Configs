@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--force-frame-blend=1
+--gs-kernel-cl="h2lpool"  
+--gs-kernel-cl-up="h2lpool2x2"
