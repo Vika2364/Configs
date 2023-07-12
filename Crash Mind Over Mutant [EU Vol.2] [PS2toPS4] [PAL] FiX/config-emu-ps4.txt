@@ -1,0 +1,6 @@
+--gs-adaptive-frameskip=1
+--force-frame-blend=1
+--vu1-mpg-cycles=1000
+--vu0-di-bits=0
+--vu1-di-bits=0
+--iop-cycle-scalar=2.0
