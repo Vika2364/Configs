@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+
+--threaded-gs=1
+
+--ds4-deadzone-adjust=0.04
