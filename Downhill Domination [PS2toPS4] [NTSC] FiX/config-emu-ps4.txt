@@ -1,0 +1,12 @@
+--gs-force-bilinear=1
+--mtap1=always
+ 
+--vif1-instant-xfer=0
+--vu1=jit-sync
+--vu1-mpg-cycles=3500
+
+--host-display-mode=16:9
+
+--ee-hook=0x0021cfe4,AdvanceClock,,8000
+
+--cdvd-sector-read-cycles=3600
