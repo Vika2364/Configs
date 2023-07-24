@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--vu1-mpg-cycles=650
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--vu1-jalr-cache-policy=newprog 
+
+Game v.2.00
