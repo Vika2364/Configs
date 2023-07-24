@@ -1,0 +1,4 @@
+--gs-progressive=1
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=3000
+--mtap1=always
