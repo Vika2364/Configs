@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--vu1=jit-sync
+--vif1-instant-xfer=0
+--mtap1=always
