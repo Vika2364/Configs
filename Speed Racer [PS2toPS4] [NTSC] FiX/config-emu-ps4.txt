@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--ee-hook=0x001bfa88,FastForwardClock 
+--vu1-mpg-cycles=1000
+--mtap1=always
