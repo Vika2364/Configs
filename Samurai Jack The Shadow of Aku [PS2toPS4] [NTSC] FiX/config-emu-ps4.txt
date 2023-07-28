@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--force-frame-blend=1
+--fpu-no-clamping=1 
+--fpu-accurate-mul-fast=1
