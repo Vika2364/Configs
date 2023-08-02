@@ -1,0 +1,12 @@
+--host-display-mode=16:9
+--ee-context-switch-cycles=2700 
+--ee-cycle-scalar=0.1
+
+--iop-cycle-scalar=0.1
+
+--vu1-mpg-cycles=700
+
+--framelimiter=1
+--framelimit-fps=15.0
+--framelimit-scalar=2.1
+
