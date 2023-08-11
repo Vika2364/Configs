@@ -1,0 +1,4 @@
+--cdvd-sector-read-cycles=2000
+
+--gs-progressive=1
+--gs-motion-factor=50
