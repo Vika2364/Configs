@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--gs-adaptive-frameskip=1
+--vu1-jr-cache-policy=newprog
+--vu1-di-bits=0
