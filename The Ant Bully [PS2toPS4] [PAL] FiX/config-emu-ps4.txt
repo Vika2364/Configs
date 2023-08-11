@@ -1,0 +1,2 @@
+--cdvd-sector-read-cycles=4000
+--ps2-lang=system
