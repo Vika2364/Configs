@@ -1,0 +1,12 @@
+--fpu-no-clamping=0
+--fpu-clamp-results=1
+--vu0-no-clamping=0
+--vu0-clamp-results=1
+--vu1-no-clamping=0
+--vu1-clamp-results=1
+--cop2-no-clamping=0
+--cop2-clamp-results=1
+--cdvd-sector-read-cycles=2000
+--gs-kernel-cl-up="up2x2simple"
+--host-display-mode=16:9
+--mtap1=always
