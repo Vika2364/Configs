@@ -1,0 +1,2 @@
+--gametitle=Need for Speed Underground J-Tune (NTSC-J)
+--emu used=jak & daxter tpl v1
