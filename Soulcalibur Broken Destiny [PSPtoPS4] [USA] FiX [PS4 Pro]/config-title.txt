@@ -1,0 +1,20 @@
+#Soul Calibur BD
+--ps4-trophies=0
+--ps5-uds=0
+--trophies=0
+--image="data/USER_L0.IMG"
+--antialias=SSAA4x
+--multisaves=true
+--notrophies=true
+
+--antialias=ssaa4x #msaa4x
+--texloadcores=48
+--present=drawsync
+--texclutmode=full
+--vramcopyback=12
+--locorocomeshsmooth=true
+--texrecent=true
+--umddelay=true
+--depthscalehack=true
+--forcenobilinear=true
+--smoothlevel=0
