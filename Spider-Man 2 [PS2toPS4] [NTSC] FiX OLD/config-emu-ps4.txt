@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+
+--vif1-instant-xfer=0
+
+--gs-kernel-cl-up="up2x2simple"
