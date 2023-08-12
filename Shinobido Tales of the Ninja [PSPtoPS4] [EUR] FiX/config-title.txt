@@ -1,0 +1,33 @@
+#Shinobido Tales of the Ninja
+
+
+--image="data/USER_L0.IMG"
+--title-id=UCES00421
+
+--vms=/temp0/vms
+--ms0=/temp0/ms0
+--multisaves=true
+--notrophies=true
+
+
+--antialias=off
+--scale=1
+--texcachemode=rondo #drawbounds drawboundsloco,patchworkheroes,locoroco2,rondo
+--present=setframebuf #vblankstart,setframebuf,drawsync
+--gputhread=off
+--autoresampler=off
+--streamingogg=true
+--depthscalehack=true
+--forcenobilinear=true
+
+
+
+
+
+
+
+
+
+
+
+
