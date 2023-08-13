@@ -1,0 +1,17 @@
+#CID The Dummy
+
+
+--image="data/USER_L0.IMG"
+--title-id=ULUS10356
+
+--vms=/temp0/vms
+--ms0=/temp0/ms0
+--multisaves=true
+--notrophies=true
+
+--antialias=off
+--texclutmode=full
+--smoothlevel=0
+
+
+
