@@ -1,0 +1,27 @@
+#Mega Man Powered Up
+
+--image="data/USER_L0.IMG"
+--title-id=ULUS10091
+
+--vms=/temp0/vms
+--ms0=/temp0/ms0
+--multisaves=true
+--notrophies=true
+
+
+--antialias=off
+--texloadcores=2
+--present=drawsync
+--texrecent=true
+--texclutmode=filter
+
+
+
+
+
+
+
+
+
+
+
