@@ -1,0 +1,20 @@
+# flOw (all regions)
+
+--texclutmode=filter
+
+--bend-30hz-lock=1
+
+--psp-right-stick-action=1
+--psp-right-stick-deadzone-x=15
+--psp-right-stick-deadzone-y=15
+--psp-right-stick-deadzone-semicircle-arc=40
+
+--app-volume=0.8
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+--trophies=1
+
+--globalgamedata-dir=global
