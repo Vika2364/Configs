@@ -1,0 +1,36 @@
+# Tekken 6 (all regions)
+
+--replacementfilter=true
+--depthscalehack=true
+
+--bend-30hz-lock=0
+
+--texcachemode=patchworkheroes 
+--texloadcores=16
+--present=vblankstart   
+--texclutmode=full
+--texrecent=true
+--force-dsf-present=1
+--gputhread=true
+--gpu-renderthread=20
+
+--force-triangle-clip-off=true
+
+--umddelay=true
+
+--dumpvideos=videos/
+
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+--trophies=1
+--vms-dir=vms
+--vms=/temp0/vms
+--ms0=/temp0/ms0
+--multisaves=false
+--notrophies=true
+--securesaves=false
+
+--globalgamedata-dir=global
