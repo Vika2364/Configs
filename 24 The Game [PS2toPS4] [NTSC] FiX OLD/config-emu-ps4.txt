@@ -1,0 +1,16 @@
+--host-display-mode=16:9
+
+--ee-kernel-hle=1
+--ee-injection-kernel=1
+--ee-injection-title=1
+--ee-cycle-scalar=1.9
+--safe-area-min=1.0
+--vu0-no-clamping=0
+--vu0-clamp-operands=1
+--vu0-clamp-results=1
+--vu1-no-clamping=0
+--vu1-clamp-operands=1
+--vu1-clamp-results=1
+--cop2-no-clamping=0
+--cop2-clamp-operands=1
+--cop2-clamp-results=1
