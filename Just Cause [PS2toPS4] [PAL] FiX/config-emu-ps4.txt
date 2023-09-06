@@ -1,0 +1,13 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=3200
+
+--ee-cycle-scalar=1.97
+
+--iop-cycle-scalar=1.1
+--iop-const-folding=All
+
+--vu1-di-bits=0
+--vu0-di-bits=0
+--vu1-mpg-cycles=500
+
+--ps2-lang=system
