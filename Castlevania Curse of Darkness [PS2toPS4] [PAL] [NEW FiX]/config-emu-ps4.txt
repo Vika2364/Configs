@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=4000
+--ee-cycle-scalar=2.0
+--force-pal-60hz=1
