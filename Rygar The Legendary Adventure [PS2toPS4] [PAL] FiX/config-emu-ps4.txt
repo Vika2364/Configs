@@ -1,0 +1,2 @@
+--host-display-mode=16:9
+--fpu-accurate-range=0x14cf68,0x14d148
