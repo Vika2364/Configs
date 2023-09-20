@@ -1,0 +1,12 @@
+--host-display-mode=16:9
+--gs-use-mipmap=1
+--gs-kernel-cl="mipmap"
+--gs-kernel-cl-up="mipmap2x2"
+--cdvd-sector-read-cycles=3000
+--fpu-no-clamping=0
+--fpu-clamp-results=1
+--fpu-rsqrt-fast-estimate=0
+--vu1-di-bits=0
+--vu0-di-bits=0
+
+--ee-cycle-scalar=2.0
