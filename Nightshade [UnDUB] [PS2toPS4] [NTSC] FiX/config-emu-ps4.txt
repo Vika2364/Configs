@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--gs-vert-precision=8
+--force-frame-blend=1
+
