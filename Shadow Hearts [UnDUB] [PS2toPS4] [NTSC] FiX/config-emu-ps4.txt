@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+--gs-kernel-cl="h2lpool"                                       
+--gs-kernel-cl-up="h2lpool2x2"                              
+--fpu-accurate-mul-fast=1                               
+--fpu-accurate-muldiv=1                                   
+--fpu-accurate-addsub-range=0x21c63c,0x21c63c
+--gs-ignore-rect-correction=1
+--force-frame-blend=1 
