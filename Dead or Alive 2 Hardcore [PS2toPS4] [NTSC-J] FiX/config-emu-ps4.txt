@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--gs-adaptive-frameskip=1
+--host-gamepads=2
+--force-frame-blend=1
+
