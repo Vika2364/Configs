@@ -1,0 +1,2 @@
+-- Half-Life [SLES-50504] (E)
+-- emu used=KOF 2000
