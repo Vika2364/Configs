@@ -1,0 +1,8 @@
+# Emu used = syphonfilter v2
+
+--image="data/disc1.bin"
+
+
+--scale=6
+--sim-analog-pad=0x2020
+--gpu-scanout-fps-override=60
