@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--fpu-accurate-range=0x23e5ac,0x23e624
+--gs-ignore-rect-correction=1    
