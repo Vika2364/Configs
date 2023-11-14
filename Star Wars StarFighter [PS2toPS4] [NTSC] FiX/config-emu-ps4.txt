@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--vif1-instant-xfer=0
+--gs-check-trans-rejection68=1
+--gs-dirty-page-policy=1
