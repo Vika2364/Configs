@@ -1,0 +1,13 @@
+--host-display-mode=16:9
+--host-vsync=1
+--gs-optimize=60fps
+--cdvd-sector-read-cycles=2000
+--ps2-lang=system
+
+--gs-progressive=1
+--gs-motion-factor=50
+
+--vu0-no-clamping=0
+--vu1-no-clamping=0
+
+--gs-ignore-rect-correction=1
