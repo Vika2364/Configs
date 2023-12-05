@@ -1,0 +1,2 @@
+--host-display-mode=16:9
+--vu1=jit-sync
