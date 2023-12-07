@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--ee-cycle-scalar=1.35    
+--vu0-mpg-cycles=250
+--vu1-mpg-cycles=250
