@@ -1,0 +1,5 @@
+--ee-cycle-scalar=1.8
+--iop-cycle-scalar=1.5
+--vu-xgkick-delay=5
+
+--ps2-lang=system
