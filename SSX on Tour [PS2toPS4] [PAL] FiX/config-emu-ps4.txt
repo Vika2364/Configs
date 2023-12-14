@@ -1,0 +1,11 @@
+--gs-flush-ad-xyz=safeZwrite
+--gs-progressive=1
+--host-display-mode=16:9
+
+--ee-cycle-scalar=1.5
+
+--vu1-di-bits=0
+--vu0-di-bits=0
+--cop2-di-bits=0
+
+--vu1-jr-cache-policy=newprog
