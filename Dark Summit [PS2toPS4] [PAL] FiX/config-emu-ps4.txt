@@ -1,0 +1,2 @@
+--host-display-mode=16:9
+--force-pal-60hz=1
