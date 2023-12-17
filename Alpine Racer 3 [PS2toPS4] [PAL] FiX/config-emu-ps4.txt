@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--vu1-no-clamping=0
+--vu0-no-clamping=0
