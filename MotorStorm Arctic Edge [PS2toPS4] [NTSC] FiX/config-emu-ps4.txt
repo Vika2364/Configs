@@ -1,0 +1,4 @@
+--gs-adaptive-frameskip=1
+--cdvd-sector-read-cycles=3000
+
+--host-gamepads=2
