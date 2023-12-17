@@ -1,0 +1,4 @@
+--cdvd-sector-read-cycles=2000
+--vu0-no-clamping=0
+--vu1-no-clamping=0
+--host-gamepads=2

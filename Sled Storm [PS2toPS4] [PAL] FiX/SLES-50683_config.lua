@@ -1,0 +1,2 @@
+-- Sled Storm (PAL)
+-- emu used=Rogue v1
