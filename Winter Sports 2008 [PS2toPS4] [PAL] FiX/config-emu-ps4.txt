@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--gs-kernel-cl-up="up2x2skipinterp"
+--cdvd-sector-read-cycles=3000
+
+--vu1-no-clamping=0

@@ -1,0 +1,2 @@
+-- Winter Sports 2008 The Ultimate Challenge (PAL)
+-- emu used=Star Wars Jedi Starfighter v1
