@@ -1,3 +1,23 @@
---image0="data/Grinch.bin"
---gpu-scanout-fps-override=ntsc
+# The Grinch (all regions)
+
 --scale=6
+--gamma=5
+--brightness=9
+--contrast=8
+--sim-analog-pad=0x2020
+
+# Use the new shared image directory
+--image-dir=data
+
+--force-pad-connect=0b1
+
+# Enable LopnorSPU to fix some audio issues
+--use-lopnor-spu=1
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+--trophies=1
+
+--globalgamedata-dir=global
