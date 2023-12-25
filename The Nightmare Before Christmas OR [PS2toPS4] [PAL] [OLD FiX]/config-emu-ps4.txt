@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=8000
+--gs-vert-precision=8
+
+--ps2-lang=system
