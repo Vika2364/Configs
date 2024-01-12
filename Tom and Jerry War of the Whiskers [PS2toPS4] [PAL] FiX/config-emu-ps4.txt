@@ -1,0 +1,2 @@
+--force-pal-60hz=1
+--host-gamepads=2
