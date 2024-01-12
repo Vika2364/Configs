@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--force-pal-60hz=1
+
+--gs-progressive=1
+--gs-motion-factor=50
+
+--cdvd-sector-read-cycles=4000
