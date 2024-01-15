@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--gs-optimize=60fps
+--force-pal-60hz=1
