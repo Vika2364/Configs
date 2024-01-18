@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+--gs-optimize-30fps=1
+--cdvd-sector-read-cycles=2000
+
+--vu1-no-clamping=0
+
+--vu0-const-prop=0
+--vu1-const-prop=0
