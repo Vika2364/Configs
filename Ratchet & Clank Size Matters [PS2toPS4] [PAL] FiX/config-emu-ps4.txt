@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=40000
+--iop-cycle-scalar=0.10
