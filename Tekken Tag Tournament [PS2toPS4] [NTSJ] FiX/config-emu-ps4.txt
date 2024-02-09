@@ -1,0 +1,12 @@
+--host-display-mode=16:9
+--gs-progressive=1
+
+--ee-cycle-scalar=2.00
+--iop-cycle-scalar=0.1
+--vu1-mpg-cycles=100
+
+--vu0-const-prop=1
+--vu1-const-prop=1
+--cop2-const-prop=1
+
+--host-gamepads=2
