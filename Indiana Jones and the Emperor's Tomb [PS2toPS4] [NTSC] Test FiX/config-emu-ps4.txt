@@ -1,0 +1,14 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--gs-optimize=60fps
+--gs-use-clut-merge=1
+--gs-kernel-cl="clutmerge"
+--gs-kernel-cl-up="clutmerge2x2"
+--vu1-di-bits=0
+--vu1-mpg-cycles=750
+--ee-cycle-scalar=2.4
+--gs-progressive=1
+--vu0-const-prop=1
+--vu1-const-prop=1
+--cop2-const-prop=1
+--gs-ignore-rect-correction=1
