@@ -1,0 +1,12 @@
+--host-display-mode=16:9
+--gs-use-clut-merge=1
+--gs-kernel-cl="clutmerge"
+--gs-kernel-cl-up="clutmerge2x2"
+
+--gs-progressive=1
+--gs-motion-factor=50
+
+--vu1-no-clamping=0
+--vu0-no-clamping=0
+
+--gs-ignore-rect-correction=1
