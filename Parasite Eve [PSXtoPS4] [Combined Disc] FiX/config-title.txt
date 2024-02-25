@@ -1,0 +1,15 @@
+#Parasite Eve (NTSC) (Combined Disc)
+--ps4-trophies = 0
+--ps5-uds=0
+--trophies=0
+--image="data/disc1.bin"
+
+--bios=SCPH1001.bin
+--scale=6
+--gamma=5
+--brightness=9
+--contrast=8
+--gpu-scanout-fps-override=ntsc
+--cdrom-cmd-time=100
+--cdrom-max-seek=true
+--sim-analog-pad=0x2020
