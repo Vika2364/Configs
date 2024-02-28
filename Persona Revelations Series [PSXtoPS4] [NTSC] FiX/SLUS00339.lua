@@ -1,0 +1,2 @@
+-- Persona Revelations Series (NTSC)
+-- emu used=Syphon Filter 3
