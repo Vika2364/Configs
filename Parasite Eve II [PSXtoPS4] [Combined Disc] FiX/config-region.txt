@@ -1,0 +1,7 @@
+--image0="data/disc1.bin"
+--gpu-scanout-fps-override=ntsc
+--scale=6
+--gamma=5
+--brightness=9
+--contrast=8
+

@@ -1,0 +1,2 @@
+-- Parasite Eve II (NTSC)(Combined Disc)
+-- emu used=syphonfilter v2
