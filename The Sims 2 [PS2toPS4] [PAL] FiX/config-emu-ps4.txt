@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--vu0-no-clamping=0 
+--vu1-no-clamping=0 
+--force-pal-60hz=1
+
