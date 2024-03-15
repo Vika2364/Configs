@@ -1,0 +1,24 @@
+# Batman Beyond Return of the Joker (US)
+
+--gpu-scanout-fps-override=ntsc
+--ps1-left-stick-action=1
+--sim-analog-pad=0x2020
+--enable-change-disc-ui=true
+--has-shown-start-select-help=0
+--bios-hide-sce-osd=1
+
+--ps5-uds=0
+
+# Use the new shared image directory
+--image-dir=data
+
+# Enable LopnorSPU to fix some audio issues
+--use-lopnor-spu=1
+
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=0
+--ps5-uds=1
+
+--globalgamedata-dir=global
