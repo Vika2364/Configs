@@ -1,0 +1,30 @@
+# Crash Team Racing (all regions)
+
+--ctlanalog=true
+
+--multitap=on
+
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+--bios=SCPH101.bin
+
+--Crash-Team-Racing=true
+
+# Use the new shared image directory
+--image-dir=data
+
+# following settings are machine-generated
+--ps4-trophies=0
+--ps5-uds=0
+--trophies=0
+
+--globalgamedata-dir=global
+
+--force-frame-blend=false
+
+# Allow the user to change between PAL and NTSC
+--userui-region-selector=true
+
+--libcrypt=A371
+
+# Emu used = The Legend of Dragoon
