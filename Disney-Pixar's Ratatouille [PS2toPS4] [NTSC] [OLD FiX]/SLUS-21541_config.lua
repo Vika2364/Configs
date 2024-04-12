@@ -1,0 +1,2 @@
+--gametitle=Ratatouille NTSC
+--emu used=JakX v2
