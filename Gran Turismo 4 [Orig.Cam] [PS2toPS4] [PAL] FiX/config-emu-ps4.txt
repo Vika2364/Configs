@@ -1,0 +1,27 @@
+--gs-use-deferred-l2h=1
+
+--vif1-instant-xfer=1
+
+--gs-use-mipmap=0
+--gs-use-clut-merge=1
+--gs-kernel-cl="clutmerge"
+--gs-kernel-cl-up="clutmerge2x2"
+
+#Fix incomplete letters in menu
+--vu0-no-clamping=0
+--vu0-clamp-operands=1
+--vu0-clamp-results=1
+
+--vu1-no-clamping=0
+--vu1-clamp-operands=1
+--vu1-clamp-results=1
+
+--ee-cycle-scalar=1.50
+
+#Fix video anticipated race license
+--fpu-accurate-muldiv-range=0x00579EB8,0x00579EB8
+--fpu-accurate-muldiv-range=0x00579EDC,0x00579EDC
+--fpu-accurate-muldiv-range=0x0057A008,0x0057A008
+--fpu-accurate-muldiv-range=0x0057A030,0x0057A030
+
+--detect-idle-vif=1
