@@ -1,0 +1,14 @@
+--gs-uprender=2x2
+--gs-upscale=gpu
+
+--host-vsync=1
+--framelimit-mode=normal
+--cdvd-sector-read-cycles=2000
+--ps2-lang=system
+
+--gs-progressive=1
+--gs-motion-factor=50
+
+--gs-ignore-rect-correction=1
+
+--ee-cycle-scalar=1.68
