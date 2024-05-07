@@ -1,0 +1,6 @@
+--iop-cycle-scalar=2.9
+--vu1-di-bits=0
+--vu0-jr-cache-policy=newprog 
+--vu1-jalr-cache-policy=newprog
+--gs-kernel-cl-up="up2x2skipinterp"
+--ps2-lang=system
