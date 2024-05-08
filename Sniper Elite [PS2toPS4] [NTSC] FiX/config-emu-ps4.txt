@@ -1,0 +1,13 @@
+--host-display-mode=16:9
+--safe-area-min=0.9
+--host-vsync=1 
+--gs-kernel-cl-up="up2x2skipinterp"
+--vu1-mpg-cycles=900
+--vu1-di-bits=0
+--vu0-di-bits=0
+--vu1-const-prop=1
+--gs-progressive=1
+--host-audio-latency=1.7
+--gs-optimize=60fps
+--gs-aspect-ratio=0.7
+--gs-force-bilinear=1
