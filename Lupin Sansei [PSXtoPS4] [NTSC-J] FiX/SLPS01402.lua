@@ -1,0 +1,2 @@
+-- Lupin Sansei [NTSC-J] [English Patched] (SLPS-01402)
+-- emu used=Oddworld Abe's Oddysee v2
