@@ -1,0 +1,2 @@
+-- Alone in the Dark 2 [NTSC-U] (SLUS-00239)
+-- emu used=Oddworld Abe's Oddysee v2
