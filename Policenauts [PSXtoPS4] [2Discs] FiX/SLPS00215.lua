@@ -1,0 +1,2 @@
+-- Policenauts [NTSC-J] [English Patched] (SLPS-00215)
+-- emu used=Oddworld Abe's Oddysee v2
