@@ -1,0 +1,30 @@
+# Resident Evil - Director's Cut Mega Collection Vol.2
+
+--pace-gpu-dma=false
+--gpu-scanout-fps-override=ntsc
+--cdrom-cmd-time=100
+--cdrom-max-seek=true
+--defer-linked-dma-irq=false
+--opt-cache-isolation=false
+--ps1-left-stick-action=1
+--ctlanalog=on
+--enable-change-disc-ui=true
+--has-shown-start-select-help=0
+--bios-hide-sce-osd=1
+--enable-user-color-adjustment=1
+
+--ps5-uds=0
+
+# Use the new shared image directory
+--image-dir=data
+
+# Enable LopnorSPU to fix some audio issues
+--use-lopnor-spu=1
+
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=0
+--ps5-uds=1
+
+--globalgamedata-dir=global
