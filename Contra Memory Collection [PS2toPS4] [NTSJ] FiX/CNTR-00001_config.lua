@@ -1,0 +1,2 @@
+--gametitle=Oretachi Game Center Zoku Contra (SLPM62730)
+--emu used=Jak v2
