@@ -1,0 +1,26 @@
+# GUN Showdown (all regions)
+
+# use 32-bit depth buffer to fix some legacy graphics glitches
+--use-higher-precision-depth=true
+
+--enable-user-psp-right-stick-remapping=true
+
+--antialias=off
+--texcachemode=patchworkheroes
+--texloadcores=48
+--present=setframebuf
+--texclutmode=full
+--texrecent=true
+--force-dsf-present=1
+--gputhread=true
+--gpu-renderthread=20
+--umddelay=true
+--smoothlevel=0
+--userui-settings-graphics=1
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+
+--globalgamedata-dir=global
