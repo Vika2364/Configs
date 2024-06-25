@@ -1,0 +1,15 @@
+# Indiana Jones and the Staff of King (all regions)
+
+# use 32-bit depth buffer to fix some legacy graphics glitches
+--use-higher-precision-depth=true
+
+--enable-user-psp-right-stick-remapping=true
+
+--userui-settings-graphics=1
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+
+--globalgamedata-dir=global
