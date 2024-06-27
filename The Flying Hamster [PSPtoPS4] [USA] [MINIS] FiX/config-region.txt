@@ -1,0 +1,1 @@
+--active-sku="NPUZ00192#v1.03"
