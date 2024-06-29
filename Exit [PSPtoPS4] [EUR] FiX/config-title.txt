@@ -1,0 +1,13 @@
+--psp-large-ram=false
+--force-dsf-present=true
+
+--userui-settings-graphics=1
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+
+--globalgamedata-dir=global
+
+# Killzone Liberation emu
