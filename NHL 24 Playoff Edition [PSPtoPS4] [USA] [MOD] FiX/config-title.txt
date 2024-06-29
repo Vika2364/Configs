@@ -1,0 +1,26 @@
+# NHL 24 Playoff Edition Mod
+
+# use 32-bit depth buffer to fix some legacy graphics glitches
+--use-higher-precision-depth=true
+
+--enable-user-psp-right-stick-remapping=true
+
+--userui-settings-graphics=1
+
+--texcachemode=locoroco2
+--force-native-aspect-ratio=1
+--triangle-discard-enabled=true
+--round-depth-to-16bit=true
+--through-uv-clamp-enabled=true
+--hack-through-uv-clamp-enabled=true
+--through-uv-clamp-use-zero-edge-alpha=false
+--psp-large-ram=1
+--boost-cpu-clock=333MHz
+--mem-access-nullptr=RW
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+
+--globalgamedata-dir=global
