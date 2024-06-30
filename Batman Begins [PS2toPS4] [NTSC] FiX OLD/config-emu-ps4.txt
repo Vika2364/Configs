@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+
+--ee-cycle-scalar=0.6
+--iop-cycle-scalar=1.5
+
