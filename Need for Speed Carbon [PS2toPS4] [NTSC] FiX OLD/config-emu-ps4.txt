@@ -1,2 +1,0 @@
---fpu-accurate-range=0x162800,0x162900
---vu1-mpg-cycles=500
