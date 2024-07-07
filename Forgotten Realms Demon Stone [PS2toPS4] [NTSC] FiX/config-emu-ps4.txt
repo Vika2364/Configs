@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--gs-kernel-cl="h2lpool"     
+--gs-kernel-cl-up="h2lpool2x2"
+--ee-cycle-scalar=1.5
+--vu1-mpg-cycles=690
+--fpu-no-clamping=0
+--fpu-clamp-results=1
+--vu0-no-clamping=0
+--vu0-clamp-results=1
