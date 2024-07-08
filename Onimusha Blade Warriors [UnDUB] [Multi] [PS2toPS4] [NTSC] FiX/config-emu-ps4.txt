@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--force-frame-blend=1
+--mtap1=always
+
+--ee-cycle-scalar=1.2
+--iop-cycle-scalar=0.8
+--vu1-mpg-cycles=700
+
+--gs-ignore-rect-correction=1
