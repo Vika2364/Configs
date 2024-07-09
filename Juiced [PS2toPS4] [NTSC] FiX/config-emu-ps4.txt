@@ -1,0 +1,6 @@
+--gs-kernel-cl="h2lpool"   
+--gs-kernel-cl-up="h2lpool2x2"
+--vu1-mpg-cycles=1880
+--vu0-mpg-cycles=860
+--ee-cycle-scalar=1.50
+--iop-cycle-scalar=1.9
