@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+
+--iop-cycle-scalar=1.0
+
+--ee-cycle-scalar=1.7
+
+--mtap1=always
+--mtap2=always
