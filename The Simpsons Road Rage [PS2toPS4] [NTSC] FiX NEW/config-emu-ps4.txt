@@ -1,0 +1,6 @@
+--host-display-mode=16:9
+--ee-cycle-scalar=1.35
+--iop-cycle-scalar=1.9   
+--vu0-mpg-cycles=250
+--vu1-mpg-cycles=250
+--framelimit-mode=normal
