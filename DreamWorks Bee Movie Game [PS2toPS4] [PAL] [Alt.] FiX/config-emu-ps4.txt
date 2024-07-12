@@ -1,0 +1,13 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=1
+
+--ee-cycle-scalar=0.45
+
+--vu1-jalr-cache-policy=newprog
+--vu0-jr-cache-policy=newprog
+
+--gs-optimize=60fps
+--force-pal-60hz=1
+
+--ps2-lang=system
+
