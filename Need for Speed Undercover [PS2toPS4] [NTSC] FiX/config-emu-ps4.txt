@@ -1,0 +1,8 @@
+--gs-kernel-cl="h2lpool"     
+--gs-kernel-cl-up="h2lpool2x2"
+--vu1-mpg-cycles=935
+--vu0-mpg-cycles=935
+--ee-cycle-scalar=2.49
+--iop-cycle-scalar=1.9
+--host-audio-latency=1.91
+--ps2-lang=system
