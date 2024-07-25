@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--fpu-accurate-range=0x3f3068,0x3f32bc
+--cdvd-sector-read-cycles=2000
+--ps2-lang=system
