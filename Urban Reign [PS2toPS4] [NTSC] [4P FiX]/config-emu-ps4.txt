@@ -1,0 +1,7 @@
+--force-frame-blend=1
+--vif-ignore-invalid-cmd=0
+--vif1-ignore-cmd-ints=1
+--vif1-instant-xfer=0
+--vu1=jit-sync
+--mtap1=Always
+--gs-ignore-rect-correction=1
