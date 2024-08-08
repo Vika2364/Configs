@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--vu1=jit-sync
+--vu1-di-bits=0
+--vu1-const-prop=1
+--vu1-mpg-cycles=700
+--ee-cycle-scalar=1.2
+--mtap1=always
+--force-pal-60hz=1
