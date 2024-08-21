@@ -1,0 +1,12 @@
+--safe-area-min=0.90 
+--vu1-di-bits=1
+--vu1-const-prop=1 
+--vu1-opt-flags=1 
+--vu0-jr-cache-policy=newprog
+--vu0-jalr-cache-policy=newprog
+--vu1-jr-cache-policy=newprog
+--vu1-jalr-cache-policy=newprog
+--vu1-mpg-cycles=690
+--gs-progressive=1
+--vu0-no-clamping=0
+--gs-aspect-ratio=1.20
