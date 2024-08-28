@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--vu-xgkick-delay=0.58
+--iop-cycle-scalar=0.70 
+--gs-adaptive-frameskip=1
+--host-gamepads=2
