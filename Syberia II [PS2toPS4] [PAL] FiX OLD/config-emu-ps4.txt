@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+
+--vif1-instant-xfer=0  
+--vu1=jit-sync        
+--force-pal-60hz=1
+--ee-cycle-scalar=1.8  
+--ps2-lang=system
