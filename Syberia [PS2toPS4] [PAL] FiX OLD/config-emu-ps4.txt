@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+
+--vu1=jit-sync  
+
+--ee-cycle-scalar=1.8  
+
+--ps2-lang=system
+
+
