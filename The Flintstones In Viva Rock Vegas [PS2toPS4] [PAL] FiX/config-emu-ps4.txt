@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--force-pal-60hz=1
+--mtap1=always
+
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
