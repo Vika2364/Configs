@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--ps2-lang=system
+--vu1-di-bits=0
+--vu1-jr-cache-policy=newprog
+--vu1-jalr-cache-policy=newprog
+--vu0-jr-cache-policy=newprog
+--vu0-jalr-cache-policy=newprog
+
+--ee-hook=0x3fb7c0,AdvanceClock,,10000
