@@ -1,0 +1,6 @@
+--host-display-mode=16:9
+--framelimit-mode=normal 
+--cdvd-sector-read-cycles=6000
+--ee-cycle-scalar=2.1
+--vif1-instant-xfer=0
+
