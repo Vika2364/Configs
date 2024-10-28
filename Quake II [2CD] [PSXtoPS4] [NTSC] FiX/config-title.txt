@@ -1,0 +1,14 @@
+--gpu-scanout-fps-override=ntsc
+--sim-analog-pad=0x2020
+--enable-change-disc-ui=true
+--bios-hide-sce-osd=1
+--enable-user-color-adjustment=1
+--pace-gpu-dma=true
+--pace-gpu-dma-slow=true
+--image-dir=data
+--use-lopnor-spu=1
+--legacy-force-analog=true
+--region-dir=SIEA
+--ps4-trophies=1
+--ps5-uds=1
+--globalgamedata-dir=global
