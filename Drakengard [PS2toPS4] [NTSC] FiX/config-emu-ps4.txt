@@ -1,0 +1,15 @@
+--host-display-mode=16:9
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--gs-h2l-list-opt=1
+--gs-h2l-accurate-hash=1
+
+--vu1-const-prop=0
+--vu1-jr-cache-policy=newprog
+
+--ee-cycle-scalar=2.0
+
+--vu0-no-clamping=0
+--vu1-no-clamping=0
+
+--gs-ignore-rect-correction=1
