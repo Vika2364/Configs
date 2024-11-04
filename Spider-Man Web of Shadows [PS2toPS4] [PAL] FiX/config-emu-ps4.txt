@@ -1,0 +1,7 @@
+--safe-area-min=0.9
+--vu1-mpg-cycles=700
+--fpu-no-clamping=1
+--ee-cycle-scalar=1.5
+--gs-kernel-cl="up2x2"
+--gs-use-deferred-l2h=1
+--ps2-lang=system

@@ -1,0 +1,2 @@
+-- Spider-Man: Web of Shadows: Amazing Allies Edition (E)(SLES-55372)
+-- emu used=ADK
