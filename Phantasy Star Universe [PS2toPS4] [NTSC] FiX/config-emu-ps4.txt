@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+--gs-use-clut-merge=1
+--gs-kernel-cl="clutmerge"
+--gs-kernel-cl-up="clutmerge2x2"
+--cdvd-sector-read-cycles=4000
+
+--fpu-accurate-mul-fast=1
+--fpu-accurate-range=0x48cce0,0x49cce0
