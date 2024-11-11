@@ -1,0 +1,9 @@
+--host-display-mode=16:9
+--gs-adaptive-frameskip=1
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--gs-h2l-list-opt=1
+--gs-h2l-accurate-hash=1
+
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
