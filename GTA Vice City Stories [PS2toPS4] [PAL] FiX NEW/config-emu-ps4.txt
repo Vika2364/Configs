@@ -1,0 +1,8 @@
+--host-display-mode=16:9
+--gs-kernel-cl="h2lpool"
+--gs-kernel-cl-up="h2lpool2x2"
+--gs-adaptive-frameskip=1
+--host-audio-latency=1.70
+--cdvd-sector-read-cycles=23000
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
