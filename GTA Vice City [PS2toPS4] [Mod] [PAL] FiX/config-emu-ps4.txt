@@ -1,0 +1,11 @@
+--host-display-mode=16:9
+--gs-frontend-opt-mode=1
+--force-frame-blend=1
+--ee-block-validation=none			    
+--ee-regalloc-scalar=0            		
+--ee-regalloc-simd=0	   		
+--gs-check-trans-rejection=1
+--gs-kernel-cl-up="up2x2tc"
+--ee-hook=0x27A838,FastForwardClock
+--ee-hook=0x2788a8,FastForwardClock
+--gs-ignore-rect-correction=1
