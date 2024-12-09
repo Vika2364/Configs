@@ -1,0 +1,13 @@
+--host-display-mode=16:9
+--vu1-no-clamping=0
+
+--vu0-const-prop=0
+--vu1-const-prop=0
+
+--cdvd-sector-read-cycles=2000
+
+--gs-optimize-30fps=1
+
+--gs-ignore-rect-correction=1
+
+--host-gamepads=2
