@@ -1,0 +1,6 @@
+--host-display-mode=16:9
+--vu1-clamp-range=0x04a,0x069
+--gs-use-deferred-l2h=0
+--cop2-no-clamping=1
+--ee-hook=0x34dee8,FastForwardClock
+--ee-hook=0x00245ee0,FastForwardClock
