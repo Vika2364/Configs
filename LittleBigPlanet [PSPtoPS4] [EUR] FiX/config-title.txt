@@ -1,0 +1,26 @@
+#LittleBigPlanet (EU)
+
+--region-dir=SIEA
+--globalgamedata-dir=global
+--hack-use-sku-vms=true
+
+
+--userui-settings-graphics=1
+--enable-user-color-adjustment=1
+--enable-customize-buttons-menu=true
+--enable-user-psp-right-stick-remapping=true
+--enable-infected-mode=true
+--ps4-trophies=0
+--ps5-uds=0
+--trophies=0
+--texcachemode=patchworkheroes
+--force-native-aspect-ratio=1
+--triangle-discard-enabled=true
+--round-depth-to-16bit=true
+--through-uv-clamp-enabled=true
+--hack-through-uv-clamp-enabled=true
+--through-uv-clamp-use-zero-edge-alpha=false
+--psp-large-ram=1
+--[ps4]-audio-latency=72ms
+#--boost-cpu-clock=333MHz
+--mem-access-nullptr=RW
