@@ -1,0 +1,5 @@
+--gs-uprender=none
+--gs-upscale=none
+
+--vu1-mpg-cycles=1500
+--vu1-di-bits=0
