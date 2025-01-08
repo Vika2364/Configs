@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
