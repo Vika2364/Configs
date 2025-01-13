@@ -1,0 +1,2 @@
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
