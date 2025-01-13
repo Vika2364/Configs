@@ -1,0 +1,11 @@
+--gs-uprender=2x2
+--gs-upscale=point
+
+--host-display-mode=16:9
+--force-frame-blend=1
+--gs-use-deferred-l2h=0
+
+--vu0-di-bits=0
+--vu1-di-bits=0
+
+--cdvd-sector-read-cycles=3000
