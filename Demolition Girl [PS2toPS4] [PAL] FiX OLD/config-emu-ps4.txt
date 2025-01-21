@@ -1,0 +1,11 @@
+#Jak v2
+--host-display-mode=16:9
+
+--gs-use-clut-merge=1
+--gs-kernel-cl="clutmerge"
+--gs-kernel-cl-up="clutmerge2x2"
+
+--vu1-no-clamping=0
+--vu0-const-prop=0
+--vu1-const-prop=0
+--vu1-jr-cache-policy=newprog
