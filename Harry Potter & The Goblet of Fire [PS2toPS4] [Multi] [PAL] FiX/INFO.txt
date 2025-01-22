@@ -1,0 +1,3 @@
+Config works for All PAL versions of game!
+
+SLES53726; SLES53727; SLES53728

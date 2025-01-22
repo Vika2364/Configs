@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=5000
+--gs-progressive=1
+--gs-motion-factor=50
+--mtap1=always
