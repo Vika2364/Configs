@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--gs-kernel-cl="mipmap"
+--gs-kernel-cl-up="mipmap2x2"
+--gs-use-mipmap=1
+--ps2-lang=system
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
