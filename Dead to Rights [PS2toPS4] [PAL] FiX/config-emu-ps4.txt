@@ -1,6 +1,0 @@
---host-display-mode=16:9
---gs-use-clut-merge=1
---gs-kernel-cl="clutmerge"
---gs-kernel-cl-up="clutmerge2x2"
---force-frame-blend=1
---gs-ignore-rect-correction=1
