@@ -1,0 +1,10 @@
+--host-display-mode=16:9
+--framelimit-mode=normal
+
+--gs-use-mipmap=1
+--gs-kernel-cl="mipmap"
+--gs-kernel-cl-up="mipmap2x2"
+
+--vu1-no-clamping=0
+
+--cdvd-sector-read-cycles=8000
