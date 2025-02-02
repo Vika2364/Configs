@@ -1,0 +1,3 @@
+--ee-cycle-scalar=3.5
+--vu1-mpg-cycles=850
+--vu1-di-bits=0
