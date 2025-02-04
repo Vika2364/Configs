@@ -1,0 +1,9 @@
+--gs-kernel-cl-up="up2x2skipinterp"
+--gs-vert-precision=8
+--vu1-no-clamping=0
+--vu0-no-clamping=0
+--cop2-opt-vf00=0
+--vu1-di-bits=0
+--vu0-di-bits=0
+--ee-cycle-scalar=1.6
+--gs-ignore-rect-correction=1
