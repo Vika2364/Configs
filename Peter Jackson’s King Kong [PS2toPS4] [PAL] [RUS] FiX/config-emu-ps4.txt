@@ -1,0 +1,12 @@
+--host-display-mode=16:9
+--gs-flush-ad-xyz=safe
+--gs-vert-precision=8
+--gs-render-tile-threshold=300000
+--gs-check-trans-rejection=1
+--ee-cycle-scalar=1.85
+--iop-cycle-scalar=1.2
+--vu1-mpg-cycles=1200
+--safe-area-min=1.0
+--gs-use-deferred-l2h=0
+--vu1-jr-cache-policy=newprog
+--vu1-jalr-cache-policy=newprog
