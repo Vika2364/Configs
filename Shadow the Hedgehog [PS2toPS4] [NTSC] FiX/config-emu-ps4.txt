@@ -1,0 +1,7 @@
+--host-display-mode=16:9
+--ee-cycle-scalar=1.31
+--vu1-mpg-cycles=4000
+--cop2-di-bits=1
+--cdvd-sector-read-cycles=2000
+
+
