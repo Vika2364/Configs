@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--cop2-di-bits=1
+--cdvd-sector-read-cycles=2000
