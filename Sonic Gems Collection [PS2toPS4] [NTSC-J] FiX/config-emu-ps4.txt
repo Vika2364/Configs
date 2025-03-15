@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--host-gamepads=2
+--ps2-lang=Japanese

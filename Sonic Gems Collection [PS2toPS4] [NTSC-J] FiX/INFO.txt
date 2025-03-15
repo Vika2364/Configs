@@ -1,0 +1,10 @@
+List of games:
+Sonic the Fighters (Bad work with current emu - deleted)
+Sonic the Hedgehog CD (Sega CD) (Works fine)
+Sonic R (Sega Saturn) (Bad work with current emu - deleted)
+Sonic the Hedgehog 2 (Game Gear) (Works fine)
+Sonic Spinball (Game Gear) (Works fine)
+Sonic the Hedgehog Triple Trouble (Game Gear) (Works fine)
+Sonic Drift 2 (Game Gear) (Works fine)
+Tails' Skypatrol (Game Gear) (Works fine)
+Tails Adventure (Game Gear) (Works fine)
