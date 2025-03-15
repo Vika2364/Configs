@@ -1,0 +1,2 @@
+--gametitle=Sonic CD (Sonic Gems Collection)
+--emu used=aofa
