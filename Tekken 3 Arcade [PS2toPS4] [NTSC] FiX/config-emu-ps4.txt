@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--host-audio-latency=0.75
+--iop-cycle-scalar=0.95
+--ee-cycle-scalar=0.78
