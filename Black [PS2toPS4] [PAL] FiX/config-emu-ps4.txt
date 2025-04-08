@@ -1,0 +1,11 @@
+--host-display-mode=16:9
+--host-vsync=1
+--framelimit-mode=normal
+--cdvd-sector-read-cycles=2000
+
+--gs-progressive=1
+--gs-motion-factor=50
+
+--gs-vert-precision=8
+
+--gs-ignore-rect-correction=1
