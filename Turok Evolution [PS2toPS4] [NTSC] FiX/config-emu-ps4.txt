@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--gs-kernel-cl-up="up2x2simple"
+--host-gamepads=2
