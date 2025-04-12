@@ -1,0 +1,7 @@
+--gs-uprender=1
+--gs-upscale=edgesmooth
+
+--host-display-mode=16:9
+--safe-area-min=0.9
+--force-pal=60hz
+--vu1-no-clamping=0
