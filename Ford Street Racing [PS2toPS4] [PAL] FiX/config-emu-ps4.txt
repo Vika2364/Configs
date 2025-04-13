@@ -1,0 +1,6 @@
+--gs-uprender=1
+--gs-upscale=smooth
+
+--host-display-mode=16:9
+--vu1-mpg-cycles=700
+--vu1-jalr-cache-policy=newprog
