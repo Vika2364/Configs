@@ -1,0 +1,5 @@
+--host-display-mode=16:9 
+--safe-area-min=0.9
+--gs-ignore-rect-correction=1
+--force-pal=60hz
+--vu1-mpg-cycles=700
