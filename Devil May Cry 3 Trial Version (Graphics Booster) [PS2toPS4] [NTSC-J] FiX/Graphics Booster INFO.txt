@@ -1,0 +1,69 @@
+gametitle=Devil May Cry 3 [Trial Version] [SLPM-60251] (J)
+comment=Patches/Codes Hacked By Maori-Jigglypuff [Savas Guercebe]
+
+// Disable Blur Effect (and increase Game Speed to 100%)
+patch=1,EE,001c0730,word,34030100
+
+// No black Borders
+patch=1,EE,00247adc,word,64030000
+
+// Complex Control-System for enhanced
+// World and Characters Brightness without any bad additional Lights
+// [Characters true Shape and Skin will be revealed now]
+patch=1,EE,001a8ebc,word,64030000
+patch=1,EE,001a8ec0,word,7c800000
+patch=1,EE,001a8ec4,word,24630001
+patch=1,EE,001a8ec8,word,2c620004
+patch=1,EE,001a8ecc,word,1440fffc
+patch=1,EE,001a8ed0,word,24840010
+patch=1,EE,001a8ed4,word,0220202d
+patch=1,EE,001a8ed8,word,27a500a0
+patch=1,EE,001a8edc,word,0c06a340
+patch=1,EE,001a8ee0,word,27a60060
+patch=1,EE,001a8ee4,word,3c04439c
+patch=1,EE,001a8ee8,word,3c070000
+patch=1,EE,001a8eec,word,0004283c
+patch=1,EE,001a8ef0,word,00a42825
+patch=1,EE,001a8ef4,word,0007383c
+patch=1,EE,001a8ef8,word,00e43825
+patch=1,EE,001a8efc,word,70e54c88
+patch=1,EE,001a8f00,word,0220202d
+patch=1,EE,001a8f04,word,8f829468
+patch=1,EE,001a8f08,word,80420393
+patch=1,EE,001a8f0c,word,00021080
+patch=1,EE,001a8f10,word,00441021
+patch=1,EE,001a8f14,word,8c420040
+patch=1,EE,001a8f18,word,24440140
+patch=1,EE,001a8f1c,word,10000006
+patch=1,EE,001a8f20,word,7c890000
+patch=1,EE,001a8bec,word,64050000
+patch=1,EE,001a8bf0,word,7c800000
+patch=1,EE,001a8bf4,word,24a50001
+patch=1,EE,001a8bf8,word,2ca20008
+patch=1,EE,001a8bfc,word,1440fffc
+patch=1,EE,001a8c00,word,24840010
+patch=1,EE,001a8c04,word,0240202d
+patch=1,EE,001a8c08,word,27a50090
+patch=1,EE,001a8c0c,word,0c06a228
+patch=1,EE,001a8c10,word,27a60050
+patch=1,EE,001a8c14,word,3c0442e0
+patch=1,EE,001a8c18,word,3c070000
+patch=1,EE,001a8c1c,word,0004283c
+patch=1,EE,001a8c20,word,00a42825
+patch=1,EE,001a8c24,word,0007383c
+patch=1,EE,001a8c28,word,00e43825
+patch=1,EE,001a8c2c,word,70e54c88
+patch=1,EE,001a8c30,word,0240202d
+patch=1,EE,001a8c34,word,8f829468
+patch=1,EE,001a8c38,word,80420393
+patch=1,EE,001a8c3c,word,000211c0
+patch=1,EE,001a8c40,word,00821021
+patch=1,EE,001a8c44,word,244701c0
+patch=1,EE,001a8c48,word,24e40030
+patch=1,EE,001a8c4c,word,7c890000
+patch=1,EE,001a8c50,word,7ce00070
+patch=1,EE,001a8c54,word,3c033f80
+patch=1,EE,001a8c58,word,1000000f
+patch=1,EE,001a8c5c,word,ace3007c
+
+Use PS2 Patch Engine

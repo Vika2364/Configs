@@ -1,0 +1,5 @@
+--force-frame-blend=1
+--cdvd-sector-read-cycles=2000
+--gs-ignore-rect-correction=1
+--vu0-no-clamping=0 
+--vu1-no-clamping=0
