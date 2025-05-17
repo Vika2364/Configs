@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--gs-force-bilinear=1
+--gs-kernel-cl-up="up2x2simple"
+--vu1-di-bits=0
+--vu1-mpg-cycles=230
