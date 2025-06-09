@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--vu-xgkick-delay=0
+--fpu-no-clamping=1
+--cop2-no-clamping=1
