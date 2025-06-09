@@ -1,5 +1,0 @@
---gs-force-bilinear=1
---gs-frontend-opt-mode=2
---gs-adaptive-frameskip=1
---gs-progressive=1
---gs-kernel-cl-up="up2x2simple"
