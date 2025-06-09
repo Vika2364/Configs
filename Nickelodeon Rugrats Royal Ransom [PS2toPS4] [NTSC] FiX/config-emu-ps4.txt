@@ -1,0 +1,2 @@
+--host-display-mode=16:9
+--vif1-instant-xfer=0
