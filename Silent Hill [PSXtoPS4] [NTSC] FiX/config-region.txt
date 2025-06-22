@@ -1,0 +1,6 @@
+# SilentHill/SIEA
+
+--image=SilentHill_SLUS00797_SCEA.bin
+
+--ctlanalog=true
+--defer-linked-dma-irq=false

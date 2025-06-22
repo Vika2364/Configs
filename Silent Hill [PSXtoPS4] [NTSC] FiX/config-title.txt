@@ -1,0 +1,29 @@
+# Silent Hill (all regions)
+
+--bios-hide-sce-osd=0
+
+--ps5-uds=0
+
+# Use the new shared image directory
+--image-dir=data
+
+--mdec-dma-period0=1
+
+--mdec-dma-period1=1
+
+
+# Enable LopnorSPU to fix some audio issues
+--use-lopnor-spu=1
+
+# Reduce global volume to fix loudness problems with the game
+--app-volume=0.8
+
+
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=0
+--ps5-uds=0
+--trophies=0
+
+--globalgamedata-dir=global
