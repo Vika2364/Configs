@@ -1,0 +1,3 @@
+--cop2-opt-flags=0
+--vu1-opt-flags=1
+--vu0-opt-flags=1
