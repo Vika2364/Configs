@@ -1,0 +1,2 @@
+--gametitle=Ghosthunter (Demo)
+--emu used=default emu from the PS2 Classics GUI
