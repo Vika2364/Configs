@@ -1,0 +1,25 @@
+# Grand Theft Auto: Chinatown Wars (Tekken 6 emu)
+
+--ps5-uds=0
+
+# UV clamping
+--through-uv-clamp-enabled=true
+--hack-through-uv-clamp-enabled=true
+--through-uv-clamp-use-zero-edge-alpha=false
+
+# to fix legacy game bug reading from nullptr (MAST-8981)
+--mem-access-nullptr=RW
+
+--hack-use-sku-vms=true
+
+# Fix some audio blips that can happen on PS4 base in loading screens (MAST-10004)
+--[ps4]-audio-latency=60ms
+
+--userui-settings-graphics=1
+
+# following settings are machine-generated
+--region-dir=SIEA
+--ps4-trophies=0
+--ps5-uds=1
+
+--globalgamedata-dir=global
