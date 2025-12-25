@@ -1,2 +1,0 @@
---host-display-mode=16:9
---host-vsync=1
