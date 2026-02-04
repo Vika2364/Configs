@@ -1,0 +1,4 @@
+--host-display-mode=16:9
+--vu1-mpg-cycles=850
+--vu1-di-bits=0
+--gs-ignore-rect-correction=1
