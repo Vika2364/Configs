@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+
+--vu1=jit-sync                
+--vu1-di-bits=0                
+--force-pal-60hz=1
