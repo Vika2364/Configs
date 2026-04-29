@@ -1,0 +1,6 @@
+--gs-kernel-cl-up="up2x2skipinterp"
+--gs-optimize-30fps=1
+
+--vu1-di-bits=0
+
+--cdvd-sector-read-cycles=1000
