@@ -1,0 +1,11 @@
+--ps1-left-stick-action=1
+--sim-analog-pad=0x2020
+--multitap=on
+
+# Allow the user to change between PAL and NTSC
+--userui-region-selector=true
+
+# Disable automatically loading the NTSC region by default since
+# we added the region switching feature after the game was released
+# and don't want users to lose their save games.
+--ntsc-region-default=true
