@@ -1,0 +1,4 @@
+Bad side:
+
+The opening intro freezes about halfway through. The same thing also happens in the PCSX2 emulator, 
+so it’s recommended to simply skip it.

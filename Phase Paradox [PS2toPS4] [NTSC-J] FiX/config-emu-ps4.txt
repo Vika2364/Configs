@@ -1,0 +1,5 @@
+--host-display-mode=16:9
+--cdvd-sector-read-cycles=2000
+--gs-progressive=1
+--force-frame-blend=1
+--gs-ignore-rect-correction=1
