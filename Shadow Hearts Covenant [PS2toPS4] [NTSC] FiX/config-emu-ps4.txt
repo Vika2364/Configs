@@ -1,0 +1,3 @@
+--host-display-mode=16:9
+--switch-disc-reset=0
+--gs-ignore-rect-correction=1
